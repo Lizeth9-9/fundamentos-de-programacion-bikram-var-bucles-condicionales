@@ -35,11 +35,11 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [x] 8.- Crear variable **incrementarDesp** con valor **2** y **asigna su valor con postincremento a resultadoDesp**
 
-- [ ] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
+- [x] 9.- Crear variable **incrementarAntes** con valor **2** y **asigna su valor con preincremento a resultadoAntes**
 
 ### Bucles ###
 
-- [ ] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
+- [x] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
 
 - [ ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
 
