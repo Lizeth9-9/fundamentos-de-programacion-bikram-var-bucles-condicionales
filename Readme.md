@@ -49,22 +49,22 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 ### Variables ###
 
-- [ ] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
+- [x] 13.- Crear variable tipo **let** de nombre **variableValorNumerico** declarada con un **valor numérico cualquiera**
 
-- [ ] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
+- [x] 14.- Crear variable tipo **const** de nombre **MiNombre** declarada con valor **tu nombre**
 
-- [ ] 15.- Crear variable tipo **const** de nombre **MiNumeroFav** declarada con **valor numérico**
+- [x] 15.- Crear variable tipo **const** de nombre **MiNumeroFav** declarada con **valor numérico**
 
 ### Booleanos ###
 
-- [ ] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
+- [x] 16.- Crear variable **booleanoOr** cuyo calor sea la comparación booleana **booleano1 or booleano2**
 
-- [ ] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
+- [x] 17.- Crear variable **booleanoMix1** cuyo valor sea la comparación booleana **(booleano1 and (TAU/2 sea igual a PI)) or (variableValorNumerico mayor o igual que MiNumeroFav)**
 
-- [ ] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
+- [x] 18.- Crear variable **seisNoEsNueve** cuyo valor sea la comparación booleana **6 no es estrictamente igual que 9**
 
 
-- [ ] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
+- [x] 19.- Crear variable **booleanoMix2** cuyo valor sea la comparación booleana **variableValorNumerico positivo (0 no incluido) o menor que -(MiNumeroFav * TAU)**
 
 ### Operadores ###
 

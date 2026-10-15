@@ -46,19 +46,34 @@ for (i = 0; contarHasta10_2 === 10; i++) {
 let postI = 0;
 let postJ = 0;
 
-for (i=0; i < 11; i++){
+for (i = 0; i < 11; i++) {
     postI += postJ++;
 }
 
 //12.
 let sumaPares = 0;
-for ( i = 0; i < 10;i++){
-    if([i] % 2 === 0){
+for (i = 0; i < 10; i++) {
+    if ([i] % 2 === 0) {
         sumaPares += i;
     }
 }
 
+//13.
+let variableValorNumerico = 10;
+//14.
+const MiNombre = "Lizeth Vega";
+//15.
+const MiNumeroFav = 123456789;
+
+//16.
+let booleanoOr = booleano1 || booleano2;
+
+//17.
+let booleanoMix1 =
+    (booleano1 && TAU / 2 === PI) || variableValorNumerico >= MiNumeroFav;
 
 //18.
-let valorSuma = MiNumeroFav + variableValorNumerico;
+let seisNoEsNueve = (6 !== 9);
 
+//19.
+let booleanoMix2 = ((variableValorNumerico > 0) || (variableValorNumerico < - (MiNumeroFav * TAU)));
