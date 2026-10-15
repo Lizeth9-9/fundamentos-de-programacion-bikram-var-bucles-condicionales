@@ -41,9 +41,9 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 - [x] 10.- Crear variable **contarHasta10_2** con valor **0** e incrementar su valor con un **bucle for hasta que se verifique que contarHasta10_2 === 10** 
 
-- [ ] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
+- [x] 11.- Crear las variables **postI** y **postJ** con valor **0** a continuación cree **un bucle que itere 11 veces**. En cada iteración se deberá **sumar al valor de postI el valor de postJ++**
 
-- [ ] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
+- [x] 12.- Crear la variable **sumaPares** con valor **0** a continuación crea un bucle que **itere 10 veces (i < 10)** si la iteración es par se deberá **sumar a sumaPares el número de la iteración actual (i)**
 
 ## Iteraciones :european_castle: proyecto individual :european_castle: ##
 
