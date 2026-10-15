@@ -23,5 +23,31 @@ let booleanoAnd = booleano1 && booleano2;
 let booleanoNot = !booleano1;
 
 //7. 
-let booleanoMix0 = (booleano1 || booleano2) & (booleano1 | (! booleano1 &| booleano2);
+let booleanoMix0 = (booleano1 || booleano2) && (booleano1 || (!booleano1 && !booleano2));
+
+//-----> Operadores
+//8.
+let incrementarDesp = 2;
+let resultadoDesp = incrementarDesp++;
+
+//9.
+let incrementarAntes = 2;
+let resultadoAntes = ++incrementarAntes;
+
+
+    
+
+
+
+
+
+
+
+
+
+
+//18.
+let valorSuma = MiNumeroFav + variableValorNumerico;
+
+//9.
 
